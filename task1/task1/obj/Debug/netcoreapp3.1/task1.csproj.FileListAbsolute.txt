@@ -1,0 +1,5 @@
+/Users/khayalmammadzada/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfo.cs
+/Users/khayalmammadzada/Projects/task1/task1/obj/Debug/netcoreapp3.1/task1.csproj.CoreCompileInputs.cache
